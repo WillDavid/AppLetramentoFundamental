@@ -20,4 +20,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Cenas/Numeros.unity
     guid: 1e206f05f66fe50499016565f7bd44d4
+  - enabled: 1
+    path: Assets/Cenas/PraticeNumbers.unity
+    guid: f16ba75bf3168f049b15c2fea5eca553
   m_configObjects: {}
